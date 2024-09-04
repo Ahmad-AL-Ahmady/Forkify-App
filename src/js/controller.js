@@ -27,10 +27,10 @@ const controlRecipes = async function () {
 
     recipeView.renderSpinner();
 
-    // Loading recipe
+    // 1) Loading recipe
     await model.loadRecipe(id);
 
-    // Rendering recipe
+    // 2) Rendering recipe
     recipeView.render(model.state.recipe);
   } catch (err) {
     alert(err.message);
