@@ -2,7 +2,6 @@
 
 ![Forkify App Snapshot](https://github.com/user-attachments/assets/af7dfa05-0e69-4bbe-a231-86c389009f22)
 
-
 ### Table of Contents
 
 1. [Description](#description)
@@ -71,7 +70,7 @@ Forkify is a JavaScript application that allows users to search for recipes, vie
 
 - **API URL**: The app uses the Forkify API to fetch recipe data. The base URL is set in the `config.js` file:
   ```js
-  export const API_URL = "https://forkify-api.herokuapp.com/api/v2/recipes/";
+  export const API_URL = 'https://forkify-api.herokuapp.com/api/v2/recipes/';
   ```
 - **Timeout Setting**: Request timeout is set to 10 seconds:
   ```js
@@ -99,3 +98,5 @@ This project is based on the coursework provided by [Jonas Schmedtmann](https://
 ### Further Reading
 
 - [Jonas Schmedtmann's JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/)
+
+- [Forkify API Documentation](https://forkify-api.herokuapp.com/v2)
