@@ -1,6 +1,7 @@
 ## Forkify
 
-![Forkify App Snapshot](image.png)
+![Forkify App Snapshot](https://github.com/user-attachments/assets/af7dfa05-0e69-4bbe-a231-86c389009f22)
+
 
 ### Table of Contents
 
