@@ -37,7 +37,7 @@ Forkify is a JavaScript application that allows users to search for recipes, vie
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Ahmad-AL-Ahmady/your-repository.git
    cd your-repository
    ```
 
